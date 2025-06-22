@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+google
+google-genai
+pyaudio
+openai-whisper
